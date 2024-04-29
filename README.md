@@ -1,3 +1,5 @@
-# 2023RealityGameCamp_Programming
+Remake第一步
+新建文件夹
 
-## 别动别人的分支，别动Main分支，别动Teach分支！！！！！！！！
+游戏名：Don'tStaredAtMe
+
